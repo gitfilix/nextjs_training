@@ -6,7 +6,7 @@ import Header from '../shared/Header';
 const BaseLayout = (props) => {
     return (
         <React.Fragment>
-        <Header />
+        <Header title={'header App title'} />
             { props.children }
         </React.Fragment>
     );

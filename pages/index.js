@@ -1,11 +1,5 @@
 import React from 'react';
-import Header from '../components/shared/Header';
 import BaseLayout from '../components/layouts/BaseLayout';
-// const Index = () => {
-//     return (
-//         <h1>my main index page</h1>
-//     );
-// }
 
 // Class component:
 // more functionality , user lifecycle functionality
