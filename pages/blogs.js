@@ -1,13 +1,13 @@
 import React from 'react';
+import BaseLayout from '../components/layouts/BaseLayout';
 
 class Blogs extends React.Component {
 
     render() {
         return (
-            <React.Fragment>
-                <h2>Blog page</h2>
+            <BaseLayout>
                 <p>Bla bla starts here</p>
-            </React.Fragment>
+            </BaseLayout>
         );
     }
 }

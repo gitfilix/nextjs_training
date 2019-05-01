@@ -1,10 +1,13 @@
 import React from 'react';
+import BaseLayout from '../components/layouts/BaseLayout';
 
 class Portfolios extends React.Component {
 
     render() {
         return (
-            <h1>Portfolio page</h1>
+            <BaseLayout>
+                <h2>Portfolios page</h2>
+            </BaseLayout>
         );
     }
 }
