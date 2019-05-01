@@ -414,13 +414,54 @@ function (_React$Component) {
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Index, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
+      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 17
         },
         __self: this
-      }, "my main index page as class Component");
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
+        },
+        __self: this
+      }, "my main index page as class Component"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, " Home "), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/blogs",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 20
+        },
+        __self: this
+      }, " Blog "), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/portfolios",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21
+        },
+        __self: this
+      }, " Portfolios "), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/about",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
+      }, " About "), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/cv",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 23
+        },
+        __self: this
+      }, " CV "));
     }
   }]);
 
