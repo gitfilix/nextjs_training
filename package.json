@@ -1,0 +1,27 @@
+{
+  "name": "next_project",
+  "version": "1.0.0",
+  "description": "h1 we will learn about next-js training with udemy.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfilix/nextjs_training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitfilix/nextjs_training/issues"
+  },
+  "homepage": "https://github.com/gitfilix/nextjs_training#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
